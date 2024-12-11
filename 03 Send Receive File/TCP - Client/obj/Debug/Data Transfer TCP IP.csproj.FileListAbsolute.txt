@@ -1,0 +1,20 @@
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\bin\Debug\Data Transfer TCP IP.exe.config
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\bin\Debug\Data Transfer TCP IP.exe
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\bin\Debug\Data Transfer TCP IP.pdb
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.csproj.AssemblyReference.cache
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data_Transfer_TCP_IP.Form1.resources
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data_Transfer_TCP_IP.Properties.Resources.resources
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.csproj.GenerateResource.cache
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.csproj.CoreCompileInputs.cache
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.exe
+C:\Users\IhmalPutra\source\repos\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.pdb
+E:\Kuli yah\Semester 5\Pemrograman Jaringan Komputer\04 Send Receive File\Data Transfer TCP IP\Data Transfer TCP IP\bin\Debug\Data Transfer TCP IP.exe.config
+E:\Kuli yah\Semester 5\Pemrograman Jaringan Komputer\04 Send Receive File\Data Transfer TCP IP\Data Transfer TCP IP\bin\Debug\Data Transfer TCP IP.exe
+E:\Kuli yah\Semester 5\Pemrograman Jaringan Komputer\04 Send Receive File\Data Transfer TCP IP\Data Transfer TCP IP\bin\Debug\Data Transfer TCP IP.pdb
+E:\Kuli yah\Semester 5\Pemrograman Jaringan Komputer\04 Send Receive File\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.csproj.AssemblyReference.cache
+E:\Kuli yah\Semester 5\Pemrograman Jaringan Komputer\04 Send Receive File\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data_Transfer_TCP_IP.Form1.resources
+E:\Kuli yah\Semester 5\Pemrograman Jaringan Komputer\04 Send Receive File\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data_Transfer_TCP_IP.Properties.Resources.resources
+E:\Kuli yah\Semester 5\Pemrograman Jaringan Komputer\04 Send Receive File\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.csproj.GenerateResource.cache
+E:\Kuli yah\Semester 5\Pemrograman Jaringan Komputer\04 Send Receive File\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.csproj.CoreCompileInputs.cache
+E:\Kuli yah\Semester 5\Pemrograman Jaringan Komputer\04 Send Receive File\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.exe
+E:\Kuli yah\Semester 5\Pemrograman Jaringan Komputer\04 Send Receive File\Data Transfer TCP IP\Data Transfer TCP IP\obj\Debug\Data Transfer TCP IP.pdb

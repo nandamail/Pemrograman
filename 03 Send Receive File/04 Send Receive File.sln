@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data Transfer TCP IP", "TCP - Client\Data Transfer TCP IP.csproj", "{880F22DE-52C7-4239-8C79-3841407EFA4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCP_Server", "TCP - Server\TCP_Server.csproj", "{923AE887-9EA1-4AF7-BCF3-98DB1C987191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880F22DE-52C7-4239-8C79-3841407EFA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880F22DE-52C7-4239-8C79-3841407EFA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880F22DE-52C7-4239-8C79-3841407EFA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880F22DE-52C7-4239-8C79-3841407EFA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923AE887-9EA1-4AF7-BCF3-98DB1C987191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923AE887-9EA1-4AF7-BCF3-98DB1C987191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923AE887-9EA1-4AF7-BCF3-98DB1C987191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923AE887-9EA1-4AF7-BCF3-98DB1C987191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4926FEEE-E700-47DE-BAF6-D8CE5168EDC7}
+	EndGlobalSection
+EndGlobal
